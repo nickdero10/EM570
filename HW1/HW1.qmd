@@ -9,7 +9,7 @@ output: pdf_document
 
 1. Load data and output first 10 rows
 ```{r}
-brexit <- read.csv("C:/Users/nickd/EM570/Data-Storytelling-2026/assignments/Assignment1/ps1_BES.csv")
+brexit <- read.csv("C:/Users/nickd/Stevens/EM570/Data-Storytelling-2026/assignments/Assignment1/ps1_BES.csv")
 head(brexit, 10)
 ```
 
@@ -158,7 +158,7 @@ max of 1.
 ## SECTION 4: CALCULATING DIFFERENCE IN MEANS
 10. Setup
 ```{r}
-UA <- read.csv("C:/Users/nickd/EM570/Data-Storytelling-2026/assignments/Assignment1/ps1_UA_survey.csv")
+UA <- read.csv("C:/Users/nickd/Stevens/EM570/Data-Storytelling-2026/assignments/Assignment1/ps1_UA_survey.csv")
 print(colnames(brexit))
 ```
 

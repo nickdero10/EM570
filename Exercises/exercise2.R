@@ -12,7 +12,7 @@ gsub(pattern = "South", replacement = "North", states[5])
 
 (positions_a <- gregexpr(pattern = "a", text = states, ignore.case = TRUE))
 
-star <- read.csv("C:/Users/nickd/EM570/Data-Storytelling-2026/data/STAR.csv")
+star <- read.csv("C:/Users/nickd/Stevens/EM570/Data-Storytelling-2026/data/STAR.csv")
 head(star)
 
 which(star$classtype == 'small')  # reports indicies       

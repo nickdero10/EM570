@@ -7,7 +7,7 @@
 ## Set the working directory
 ## (delete the lines of code that are not for your computer, and
 ##  if using Windows, replace "username" with your own username)
-setwd("C:/Users/nickd/EM570/Data-Storytelling-2026/data/") # if Windows
+setwd("C:/Users/nickd/Stevens/EM570/Data-Storytelling-2026/data/") # if Windows
 
 library(dplyr) # loads dplyr package for data manipulation
 library(labelled) # loads labelled package for working with labelled data
